@@ -1,8 +1,25 @@
-# React + Vite
+<h1 align="center"> Lista de Tarefas </h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+Um To Do com React, Vite, CSS e JavaScript. <br/>
+</p>
 
-Currently, two official plugins are available:
+<br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="center">
+  <img alt="ListaTarefas" src=".github/ToDo.png" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- React
+- Vite
+- CSS
+- JavaScript
+- Git e Github
+
+## 💻 Projeto
+
+A Lista de Tarefas é um website que para a criação de tarefas, com cada tarefa tendo seu ID (de forma automática), título e categoria (sendo pré-definidas), podendo ser completada ou excluida, além disso ele possui funcionalidades como de pesquisa e filtragem, com 3 tipos de filtragem, sendo: Status (Completa ou Incompleta), Ordem alfabética (Asc ou Desc) e por Categoria. Para o projeto foi utilizado React como framework, com o próposito de me aprefeiçoar na ferramenta, Vite para facilitar a integração e CSS para a estilização. Foi meu primeiro projeto usando Vite.
