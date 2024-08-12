@@ -5,7 +5,7 @@ Um To Do com React, Vite, CSS e JavaScript. <br/>
 </p>
 
 <p align="center">
-  <a href="https://gustavofscode.github.io/lista_de_tarefas_vite_deploy/">
+  <a href="https://gustavofscode.github.io/lista_de_tarefas_vite_deploy/">Visualize o projeto aqui!</a>
 </p>
 
 <br>
